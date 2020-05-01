@@ -1,0 +1,17 @@
+{
+  "name": "spray",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matyo91/spray.git"
+  },
+  "author": "Mathieu Ledru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matyo91/spray/issues"
+  },
+  "homepage": "https://github.com/matyo91/spray#readme",
+  "dependencies": {
+    "github-spray": "^1.2.0"
+  }
+}
